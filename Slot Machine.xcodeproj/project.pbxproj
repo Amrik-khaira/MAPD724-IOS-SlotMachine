@@ -13,7 +13,7 @@
 		E1A7FAC7297B785A000F6030 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1A7FAC5297B785A000F6030 /* Main.storyboard */; };
 		E1A7FAC9297B785B000F6030 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1A7FAC8297B785B000F6030 /* Assets.xcassets */; };
 		E1A7FACC297B785B000F6030 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1A7FACA297B785B000F6030 /* LaunchScreen.storyboard */; };
-		E1A7FAD8297B7C7B000F6030 /* confetti.gif in Resources */ = {isa = PBXBuildFile; fileRef = E1A7FAD7297B7C7B000F6030 /* confetti.gif */; };
+		E1A7FADA297B9191000F6030 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A7FAD9297B9191000F6030 /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		E1A7FAC8297B785B000F6030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1A7FACB297B785B000F6030 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1A7FACD297B785B000F6030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E1A7FAD7297B7C7B000F6030 /* confetti.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = confetti.gif; sourceTree = "<group>"; };
+		E1A7FAD9297B9191000F6030 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +58,10 @@
 		E1A7FABE297B785A000F6030 /* Slot Machine */ = {
 			isa = PBXGroup;
 			children = (
-				E1A7FAD7297B7C7B000F6030 /* confetti.gif */,
 				E1A7FABF297B785A000F6030 /* AppDelegate.swift */,
 				E1A7FAC1297B785A000F6030 /* SceneDelegate.swift */,
 				E1A7FAC3297B785A000F6030 /* ViewController.swift */,
+				E1A7FAD9297B9191000F6030 /* CustomView.swift */,
 				E1A7FAC5297B785A000F6030 /* Main.storyboard */,
 				E1A7FAC8297B785B000F6030 /* Assets.xcassets */,
 				E1A7FACA297B785B000F6030 /* LaunchScreen.storyboard */,
@@ -128,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1A7FAD8297B7C7B000F6030 /* confetti.gif in Resources */,
 				E1A7FACC297B785B000F6030 /* LaunchScreen.storyboard in Resources */,
 				E1A7FAC9297B785B000F6030 /* Assets.xcassets in Resources */,
 				E1A7FAC7297B785A000F6030 /* Main.storyboard in Resources */,
@@ -143,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1A7FAC4297B785A000F6030 /* ViewController.swift in Sources */,
+				E1A7FADA297B9191000F6030 /* CustomView.swift in Sources */,
 				E1A7FAC0297B785A000F6030 /* AppDelegate.swift in Sources */,
 				E1A7FAC2297B785A000F6030 /* SceneDelegate.swift in Sources */,
 			);
