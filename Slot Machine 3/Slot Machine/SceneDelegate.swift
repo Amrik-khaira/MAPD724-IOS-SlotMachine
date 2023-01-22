@@ -1,9 +1,12 @@
 //
 //  SceneDelegate.swift
-//  Slot Machine
+//  Author's name : Amrik Singh
+//  StudentID : 301296257
 //
-//  Created by Kaushal on 21/01/23.
+//  Slot Machine Part 1
 //
+//  Created by Amrik on 21/01/23.
+// Version: 1.0
 
 import UIKit
 

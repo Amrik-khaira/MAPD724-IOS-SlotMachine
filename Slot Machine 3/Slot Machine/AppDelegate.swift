@@ -1,16 +1,17 @@
 //
 //  AppDelegate.swift
-//  Slot Machine
+//  Author's name : Amrik Singh
+//  StudentID : 301296257
 //
-//  Created by Kaushal on 21/01/23.
+//  Slot Machine Part 1
 //
+//  Created by Amrik on 21/01/23.
+// Version: 1.0
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
